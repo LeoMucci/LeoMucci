@@ -3,13 +3,12 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-capra-mucci-9143a120a/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mucci.leoo/)
 
-<img height="180em"> ![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoMucci&show_icons=true&theme=radical)
-<img height="180em"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMucci&layout=compact)
+![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoMucci&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMucci&layout=compact)
 
-<div>
- src="https://github-readme-stats.varcel.app/api/username-LeoMuccikshow_icons-true&theme-draculañinclude all commits-true&count private-true"/>
-<img height="180em"> src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMucci&layout-compact&langs_count=15&theme-dracula"/>
-</div>
+
+ (https://github-readme-stats.varcel.app/api/username-LeoMuccikshow_icons-true&theme-draculañinclude all commits-true&count private-true)
+
 
 
 ## Tecnologias que eu uso 🚀
