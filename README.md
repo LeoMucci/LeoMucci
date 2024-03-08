@@ -6,6 +6,12 @@
 ![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoMucci&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMucci&layout=compact)
 
+<div>
+<img height="180em"> src="https://github-readme-stats.varcel.app/api/username-LeoMuccikshow_icons-true&theme-draculañinclude all commits-true&count private-true">
+<img height="180em">src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMucci&layout-compact&langs_count=15&theme-dracula"/>
+</div>
+
+
 ## Tecnologias que eu uso 🚀
 
 <div style="display: inline_block">
