@@ -3,12 +3,16 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-capra-mucci-9143a120a/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mucci.leoo/)
 
-![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoMucci&show_icons=true&theme=radical)
+![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoMucci&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMucci&layout=compact)
 
 
- (https://github-readme-stats.varcel.app/api/username-LeoMuccikshow_icons-true&theme-draculañinclude all commits-true&count private-true)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LeoMucci" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoMucci&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 
 ## Tecnologias que eu uso 🚀
