@@ -22,4 +22,4 @@
     <img aling="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 </div></br>
 
-Sou um desenvolvedor de software com habilidades em HTML, CSS, Java, JavaScript, SQL, Python, PHP e C#. Possuo experiência em desenvolvimento de projetos em parceria com a Volkswagen do Brasil, incluindo um aplicativo de plano de sucessão de carreiras com foco na praticidade e inovação. Atualmente estou buscando novas oportunidades no mercado de trabalho para desenvolver meus conhecimentos e enfrentar novos desafios. Sou apaixonado por programação e estou sempre disposto a aprender mais e me manter atualizado.
+Sou um desenvolvedor de software com habilidades em HTML, CSS, Java, JavaScript, SQL, Python, PHP e C#. Possuo experiência em desenvolvimento de projetos em parceria com a Volkswagen do Brasil, incluindo um aplicativo de plano de sucessão de carreiras com foco na praticidade e inovação. Sou apaixonado por programação e estou sempre disposto a aprender mais e me manter atualizado.
